@@ -46,5 +46,5 @@ The below example shows how to set your Avatar from a local file.
 The below example shows how to set your Avatar from a URL.
 
 ```sh
-./avatar -t TOKEN -u https://raw.githubusercontent.com/jongsookeum/discordgo/master/docs/img/discordgo.svg
+./avatar -t TOKEN -u https://raw.githubusercontent.com/JongsooKeum/discordgo/master/docs/img/discordgo.svg
 ```

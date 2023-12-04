@@ -8,7 +8,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/jongsookeum/discordgo"
+	"github.com/JongsooKeum/discordgo"
 )
 
 // Flags

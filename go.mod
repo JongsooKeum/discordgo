@@ -1,4 +1,4 @@
-module github.com/jongsookeum/discordgo
+module github.com/JongsooKeum/discordgo
 
 go 1.13
 

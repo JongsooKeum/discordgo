@@ -1,6 +1,6 @@
 # DiscordGo
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/jongsookeum/discordgo.svg)](https://pkg.go.dev/github.com/jongsookeum/discordgo) [![Go Report Card](https://goreportcard.com/badge/github.com/jongsookeum/discordgo)](https://goreportcard.com/report/github.com/jongsookeum/discordgo) [![CI](https://github.com/jongsookeum/discordgo/actions/workflows/ci.yml/badge.svg)](https://github.com/jongsookeum/discordgo/actions/workflows/ci.yml) [![Discord Gophers](https://img.shields.io/badge/Discord%20Gophers-%23discordgo-blue.svg)](https://discord.gg/golang) [![Discord API](https://img.shields.io/badge/Discord%20API-%23go_discordgo-blue.svg)](https://discord.com/invite/discord-api)
+[![Go Reference](https://pkg.go.dev/badge/github.com/JongsooKeum/discordgo.svg)](https://pkg.go.dev/github.com/JongsooKeum/discordgo) [![Go Report Card](https://goreportcard.com/badge/github.com/JongsooKeum/discordgo)](https://goreportcard.com/report/github.com/JongsooKeum/discordgo) [![CI](https://github.com/JongsooKeum/discordgo/actions/workflows/ci.yml/badge.svg)](https://github.com/JongsooKeum/discordgo/actions/workflows/ci.yml) [![Discord Gophers](https://img.shields.io/badge/Discord%20Gophers-%23discordgo-blue.svg)](https://discord.gg/golang) [![Discord API](https://img.shields.io/badge/Discord%20API-%23go_discordgo-blue.svg)](https://discord.com/invite/discord-api)
 
 <img align="right" alt="DiscordGo logo" src="docs/img/discordgo.svg" width="400">
 
@@ -14,10 +14,10 @@ If you would like to help the DiscordGo package please use
 to add the official DiscordGo test bot **dgo** to your server. This provides
 indispensable help to this project.
 
-- See [dgVoice](https://github.com/jongsookeum/dgvoice) package for an example of
+- See [dgVoice](https://github.com/JongsooKeum/dgvoice) package for an example of
   additional voice helper functions and features for DiscordGo.
 
-- See [dca](https://github.com/jongsookeum/dca) for an **experimental** stand alone
+- See [dca](https://github.com/JongsooKeum/dca) for an **experimental** stand alone
   tool that wraps `ffmpeg` to create opus encoded audio appropriate for use with
   Discord (and DiscordGo).
 
@@ -34,7 +34,7 @@ This assumes you already have a working Go environment, if not please see
 `go get` _will always pull the latest tagged release from the master branch._
 
 ```sh
-go get github.com/jongsookeum/discordgo
+go get github.com/JongsooKeum/discordgo
 ```
 
 ### Usage
@@ -42,7 +42,7 @@ go get github.com/jongsookeum/discordgo
 Import the package into your project.
 
 ```go
-import "github.com/jongsookeum/discordgo"
+import "github.com/JongsooKeum/discordgo"
 ```
 
 Construct a new Discord client which can be used to access the variety of
@@ -62,7 +62,7 @@ Because of that there may be major changes to library in the future.
 The DiscordGo code is fairly well documented at this point and is currently
 the only documentation available. Go reference (below) presents that information in a nice format.
 
-- [![Go Reference](https://pkg.go.dev/badge/github.com/jongsookeum/discordgo.svg)](https://pkg.go.dev/github.com/jongsookeum/discordgo)
+- [![Go Reference](https://pkg.go.dev/badge/github.com/JongsooKeum/discordgo.svg)](https://pkg.go.dev/github.com/JongsooKeum/discordgo)
 - Hand crafted documentation coming eventually.
 
 ## Examples
@@ -70,13 +70,13 @@ the only documentation available. Go reference (below) presents that information
 Below is a list of examples and other projects using DiscordGo. Please submit
 an issue if you would like your project added or removed from this list.
 
-- [DiscordGo Examples](https://github.com/jongsookeum/discordgo/tree/master/examples) - A collection of example programs written with DiscordGo
-- [Awesome DiscordGo](https://github.com/jongsookeum/discordgo/wiki/Awesome-DiscordGo) - A curated list of high quality projects using DiscordGo
+- [DiscordGo Examples](https://github.com/JongsooKeum/discordgo/tree/master/examples) - A collection of example programs written with DiscordGo
+- [Awesome DiscordGo](https://github.com/JongsooKeum/discordgo/wiki/Awesome-DiscordGo) - A curated list of high quality projects using DiscordGo
 
 ## Troubleshooting
 
 For help with common problems please reference the
-[Troubleshooting](https://github.com/jongsookeum/discordgo/wiki/Troubleshooting)
+[Troubleshooting](https://github.com/JongsooKeum/discordgo/wiki/Troubleshooting)
 section of the project wiki.
 
 ## Contributing
